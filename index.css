@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 48px;
+  margin: auto;
+  padding: 4rem;
+  text-align: center;
+  color: white;
+  background-color: rgb(32, 107, 60);
+}
+.hidden {
+  display: none;
+}
+label {
+  display: inline-block;
+  width: 100px;
+  text-align: center;
+}
+.userInfo {
+margin: 1rem;
+}
+
+.orderForm {
+  margin: 5rem 10rem;
+  background-color: rgb(157, 243, 188);
+  padding: 1rem;
+}
+
+.totalSection{
+  margin: 1rem;
+}
+
+.inputTable{
+  margin: 1rem;
+}
+
+.pickupType {
+  margin: 1rem
+}
+
+.btn{
+  margin: 1rem;
+  padding: 2px 5px;
+  border-color:rgb(32, 107, 60);
+  border-radius: 3%;
+  background-color: white;
+  cursor: pointer;
+  font-family: serif;
+  font-size: 12px;
+}
+
+.btn:hover {
+  background-color: rgb(32, 107, 60);
+  color: white;
+}
+
+.row{
+  margin: 10rem;
+}
